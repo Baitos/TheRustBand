@@ -6,6 +6,14 @@
     font-size: 48px;
 }*/
 
+* {
+  box-sizing: border-box;
+}
+
+img, iframe {
+  max-width: 100%;
+}
+
 .shows-header {
     font-size: 2.5rem;
     font-family: 'Roboto', sans-serif;
